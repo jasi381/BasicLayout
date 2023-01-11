@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasicLayout</string>
+    <string name="heading">LAKERS VS BULLS</string>
+    <string name="kobe">Bryant</string>
+    <string name="trae">Young</string>
+    <string name="lebron">James</string>
+    <string name="shaq">Shaq</string>
+    <string name="curry">Curry</string>
+    <string name="jordan">Jordan</string>
+    <string name="hall_of_fame">Hall of Fame</string>
+    <string name="fav">Favourite Players</string>
+</resources>
